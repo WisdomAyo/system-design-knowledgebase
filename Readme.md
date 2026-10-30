@@ -9,7 +9,7 @@ Check the notes here: https://pagefy.io/system-design/system-design-interview-by
 ## Credits
 
 The notes in this repository were originally written by **Olaniyan Wisdom** and published at
-[liquidslr/system-design-notes](https://github.com/WisdomAyo/system-design-knowledgebase), with additional
+[wisdomayo/system-design-notes](https://github.com/WisdomAyo/system-design-knowledgebase), with additional
 contributions from Joshua Emmanuel and Satyam Kesharwani. They are based on Alex Xu's
 *System Design Interview – An Insider's Guide (Vol 1 & 2)*.
 
